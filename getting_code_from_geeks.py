@@ -1,3 +1,5 @@
+# This code can extract all the code part in any geeks for geeks website
+
 from bs4 import BeautifulSoup
 
 import urllib.request as ur
